@@ -12,7 +12,7 @@ Movie Details URL: https://www.omdbapi.com/?i={MOVIE_ID}&apikey={API_KEY}
 ### Icons and Fonts
 Icons: rujutadabke/Movie-App-React
 
-Font Link: <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+Font Link: https://fonts.google.com/specimen/Josefin+Sans
 
 #### Libraries Used
  1. styled-components
