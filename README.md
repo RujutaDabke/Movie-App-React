@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# API Used
+The Open Movie Database APIs
+Generate API key from : http://www.omdbapi.com/apikey.aspx
 
 ## Available Scripts
 
