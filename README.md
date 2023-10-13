@@ -19,4 +19,5 @@ Font Link: https://fonts.google.com/specimen/Josefin+Sans
  2. axios
  3. react-scripts
 
+![image](https://github.com/RujutaDabke/Movie-App-React/assets/89774970/aa12587d-4314-4b5e-a364-3b810061856f)
 
